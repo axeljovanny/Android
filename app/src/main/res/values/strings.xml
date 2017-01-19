@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Unidad1</string>
+    <string name="title_activity_ecuacion2">Ecuacion2</string>
+    <string name="ecuaci_n_2">Ecuación 2</string>
+    <string name="entrar">Entrar</string>
+    <string name="ecuaci_n_1">Ecuación 1</string>
+</resources>
