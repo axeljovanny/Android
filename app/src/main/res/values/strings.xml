@@ -4,4 +4,9 @@
     <string name="ecuaci_n_2">Ecuación 2</string>
     <string name="entrar">Entrar</string>
     <string name="ecuaci_n_1">Ecuación 1</string>
+    <string name="ecu1">(x - 5) ^ 2</string>
+    <string name="valor_de_x">Valor de X</string>
+    <string name="calcular">Calcular</string>
+    <string name="ecu2">(y + 6) ^ 2</string>
+    <string name="y">Valor de Y</string>
 </resources>

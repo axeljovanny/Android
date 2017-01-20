@@ -13,12 +13,12 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="(x - 5) ^ 2"
+        android:text="@string/ecu1"
         android:layout_gravity="center"/>
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Valor de X"
+        android:text="@string/valor_de_x"
         android:layout_gravity="center"/>
 
     <EditText
@@ -33,6 +33,6 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Calcular"
+        android:text="@string/calcular"
         android:id="@+id/btn_calcular"/>
 </LinearLayout>

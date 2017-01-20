@@ -10,7 +10,7 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="utng.edu.mx.unidad1.MainActivity"
-    android:background="@drawable/ecu">
+    android:background="@color/colorAccent">
 
     <TextView
         android:text="@string/ecuaci_n_2"
@@ -61,10 +61,11 @@
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@drawable/ecu"
-        android:layout_above="@+id/textView"
-        android:layout_centerHorizontal="true"
-        android:id="@+id/imageView2" />
+        app:srcCompat="@mipmap/ic_launcher"
+        android:layout_marginTop="51dp"
+        android:id="@+id/imageView"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
 
 
 </RelativeLayout>
